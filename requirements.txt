@@ -5,5 +5,4 @@ timescaledb
 pydantic
 sqlalchemy
 sqlmodel
-
-
+python-dotenv
